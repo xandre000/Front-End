@@ -1,0 +1,7 @@
+.gitignore
+bin
+obj
+*.csproj
+*.zip
+node_modules
+lib
